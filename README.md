@@ -46,6 +46,10 @@ Run a mocked local environment with hot-reload ...
 npm run dev
 ```
 
+This will start a mock API Gateway serving the Lambda functions you've defined.
+
+Call the API at `http://localhost:3000`.
+
 ### Deploy
 
 Deploy the project to the cloud ...

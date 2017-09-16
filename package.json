@@ -1,0 +1,15 @@
+{
+  "name": "aws-nodejs-typescript",
+  "version": "1.0.0",
+  "description": "Created using the starter project template, built using Serverless and TypeScript.",
+  "main": "handler.js",
+  "scripts": {
+    "dev": "serverless offline start",
+    "deploy": "serverless deploy"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "0.0.16",
+    "serverless-offline": "^3.15.3",
+    "serverless-plugin-typescript": "^1.1.2"
+  }
+}

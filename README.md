@@ -1,4 +1,6 @@
 # aws-nodejs-typescript
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fechelon-solutions%2Faws-nodejs-typescript.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fechelon-solutions%2Faws-nodejs-typescript?ref=badge_shield)
+
 
 This repository contains a starter project template for Serverless projects running on AWS.
 
@@ -65,3 +67,7 @@ Browse the following resources for more information:
 - Serverless [documentation](https://serverless.com/framework/docs/)
 - TypeScript [documentation](https://www.typescriptlang.org/docs/)
 - AWS [documentation](https://aws.amazon.com/documentation/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fechelon-solutions%2Faws-nodejs-typescript.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fechelon-solutions%2Faws-nodejs-typescript?ref=badge_large)
